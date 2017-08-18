@@ -1,0 +1,29 @@
+{
+    "name": "promo-3-first-node",
+    "version": "0.0.1",
+    "description": "First Node.js project with Simplon.co Lyon's promo 3",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/selmamuzevic/promo-3-first-node.git"
+    },
+    "keywords": [
+        "Simplon.co",
+        "Node.js"
+    ],
+    "author": "selma",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/selmamuzevic/promo-3-first-node/issues"
+    },
+    "homepage": "https://github.com/selmamuzevic/promo-3-first-node#readme",
+    "dependencies": {
+        "mysql": "^2.14.1"
+    },
+    "devDependencies": {
+        "@types/mysql": "0.0.34"
+    }
+}
